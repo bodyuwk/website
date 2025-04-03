@@ -1,3 +1,4 @@
+sudo bettercap
 ---
 title: "mysql.server (rogue)"
 date: 2019-02-25T13:25:31+01:00
